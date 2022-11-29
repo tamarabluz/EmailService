@@ -1,4 +1,4 @@
-package com.message.email.comsumers;
+package com.message.email.consumers;
 
 import com.message.email.dtos.EmailDto;
 import com.message.email.models.EmailModel;
